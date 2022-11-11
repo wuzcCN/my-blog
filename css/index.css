@@ -216,7 +216,7 @@ template {
 
 .postImgHover img, #pagination .prev-post img, #pagination .next-post img, 
 .relatedPosts > .relatedPosts-list > div img{
-	background-image: url(https://image.aobayu.cn/images/generics.png);
+	background-image: url(https://image.aobayu.cn/images/generics.png)important;
 	background-size: 100% 100%;
 	opacity: 0.7!important;
 }
